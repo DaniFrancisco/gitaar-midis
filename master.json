@@ -1,0 +1,467 @@
+{
+	"header": {
+		"formatType": 1,
+		"trackCount": 14,
+		"ticksPerBeat": 384
+	},
+	"tracks": [
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "timeSignature",
+				"numerator": 4,
+				"denominator": 4,
+				"metronome": 24,
+				"thirtyseconds": 8
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "setTempo",
+				"microsecondsPerBeat": 545454
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Electric Piano"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 64,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 64,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 64,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 64,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 64,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 64,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 64,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 64,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 68,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 68,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 64,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 64,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 68,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 68,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 63,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 63,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 59,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 59,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 288,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 66,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"noteNumber": 70,
+				"velocity": 50,
+				"subtype": "noteOn"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 66,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 96,
+				"channel": 0,
+				"type": "channel",
+				"subtype": "noteOff",
+				"noteNumber": 70,
+				"velocity": 0
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Acoustic Guitar"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 1,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 24
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Percussion"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 9,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 0
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Smooth Synth"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 3,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 80
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Electric Guitar"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 4,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 29
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Bass"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 5,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 32
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Synth Pluck"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 6,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 87
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Scifi"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 7,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 99
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Grand Piano"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 8,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 0
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "French Horn"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 2,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 60
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Trombone"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 10,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 57
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Violin"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 11,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 40
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		],
+		[
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "trackName",
+				"text": "Cello"
+			},
+			{
+				"deltaTime": 0,
+				"channel": 12,
+				"type": "channel",
+				"subtype": "programChange",
+				"programNumber": 42
+			},
+			{
+				"deltaTime": 0,
+				"type": "meta",
+				"subtype": "endOfTrack"
+			}
+		]
+	]
+}

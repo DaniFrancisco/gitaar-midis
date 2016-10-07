@@ -1,0 +1,20 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "trackName",
+		"text": "Bass"
+	},
+	{
+		"deltaTime": 0,
+		"channel": 5,
+		"type": "channel",
+		"subtype": "programChange",
+		"programNumber": 32
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]

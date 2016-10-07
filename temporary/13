@@ -1,0 +1,20 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "trackName",
+		"text": "Cello"
+	},
+	{
+		"deltaTime": 0,
+		"channel": 12,
+		"type": "channel",
+		"subtype": "programChange",
+		"programNumber": 42
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]

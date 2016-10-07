@@ -1,0 +1,20 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "trackName",
+		"text": "Synth Pluck"
+	},
+	{
+		"deltaTime": 0,
+		"channel": 6,
+		"type": "channel",
+		"subtype": "programChange",
+		"programNumber": 87
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]

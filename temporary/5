@@ -1,0 +1,20 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "trackName",
+		"text": "Electric Guitar"
+	},
+	{
+		"deltaTime": 0,
+		"channel": 4,
+		"type": "channel",
+		"subtype": "programChange",
+		"programNumber": 29
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]

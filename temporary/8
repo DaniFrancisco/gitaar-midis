@@ -1,0 +1,20 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "trackName",
+		"text": "Scifi"
+	},
+	{
+		"deltaTime": 0,
+		"channel": 7,
+		"type": "channel",
+		"subtype": "programChange",
+		"programNumber": 99
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]

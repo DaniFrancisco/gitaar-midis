@@ -1,0 +1,22 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "timeSignature",
+		"numerator": 4,
+		"denominator": 4,
+		"metronome": 24,
+		"thirtyseconds": 8
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "setTempo",
+		"microsecondsPerBeat": 545454
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]

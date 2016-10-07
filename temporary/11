@@ -1,0 +1,20 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "trackName",
+		"text": "Trombone"
+	},
+	{
+		"deltaTime": 0,
+		"channel": 10,
+		"type": "channel",
+		"subtype": "programChange",
+		"programNumber": 57
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]

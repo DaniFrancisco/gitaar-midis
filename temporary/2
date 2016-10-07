@@ -1,0 +1,20 @@
+[
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "trackName",
+		"text": "Acoustic Guitar"
+	},
+	{
+		"deltaTime": 0,
+		"channel": 1,
+		"type": "channel",
+		"subtype": "programChange",
+		"programNumber": 24
+	},
+	{
+		"deltaTime": 0,
+		"type": "meta",
+		"subtype": "endOfTrack"
+	}
+]
